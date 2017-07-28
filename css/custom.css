@@ -1,0 +1,52 @@
+.item img {
+width: 100%;
+}
+
+.carousel-caption {
+background: rgba (0, 0, 0, 0.6);
+}
+
+.carousel-caption h1 {
+color: #fff;
+}
+
+.carousel-caption p {
+color: #fff;
+}
+
+.carousel {
+margin-bottom: 50px
+}
+
+footer {
+width: 100%;
+background-color: gray;
+bottom: 0;
+height: 60px;
+padding: 10px;
+color: #fff;
+}
+
+.container-fluid {
+max-width: 1200px;
+}
+
+label {
+clear: both;
+width: 100px;
+}
+
+fieldset {
+margin-left: 40px;
+background-color: #e1e1e1;
+padding: 20px;
+margin-top: 20px;
+}
+
+
+h4 {
+text-transform: uppercase;
+font-weight: 600;
+color: #666;
+margin-bottom: 20px;
+}
